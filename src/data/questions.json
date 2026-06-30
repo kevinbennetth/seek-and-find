@@ -1,0 +1,196 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Faith & Scripture",
+      "color": "#2563eb",
+      "questions": [
+        {
+          "id": "fs-1",
+          "text": "In the current season of your life, do you feel like you're the younger or the older brother from the Prodigal Son parable?",
+          "scripture": "Luke 15:11-32"
+        },
+        {
+          "id": "fs-2",
+          "text": "Looking at the Parable of the Sower, which type of soil best represents your heart right now — and why?",
+          "scripture": "Matthew 13:1-23"
+        },
+        {
+          "id": "fs-3",
+          "text": "Do you agree with \"once saved, always saved\"?",
+          "scripture": "John 10:28-29"
+        },
+        {
+          "id": "fs-4",
+          "text": "Is there a verse that used to confuse or bother you that now means something different?",
+          "scripture": "2 Timothy 3:16-17"
+        },
+        {
+          "id": "fs-5",
+          "text": "Which book of the Bible do you keep coming back to, and why?",
+          "scripture": "Psalm 119:105"
+        },
+        {
+          "id": "fs-6",
+          "text": "Is there a Biblical character whose struggle you deeply relate to right now?",
+          "scripture": "Hebrews 11:1-40"
+        },
+        {
+          "id": "fs-7",
+          "text": "God is described in many ways throughout Scripture — Father, Shepherd, Refuge, Healer. Which name of God feels most personal to you right now?",
+          "scripture": "Psalm 23:1; Isaiah 53:5; Psalm 46:1"
+        },
+        {
+          "id": "fs-8",
+          "text": "Jesus asked His disciples, \"Who do you say I am?\" — how would you answer that question in your own words, right now?",
+          "scripture": "Matthew 16:15"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "My Faith Story",
+      "color": "#d97706",
+      "questions": [
+        {
+          "id": "mf-1",
+          "text": "Where have you seen God's love in your life recently?"
+        },
+        {
+          "id": "mf-2",
+          "text": "In which season of your life do you feel the most loved by God?"
+        },
+        {
+          "id": "mf-3",
+          "text": "Why do you love Jesus?"
+        },
+        {
+          "id": "mf-4",
+          "text": "Moving forward, what's one thing you would want to do to build a relationship with God?"
+        },
+        {
+          "id": "mf-5",
+          "text": "Have you ever felt far away from God?"
+        },
+        {
+          "id": "mf-6",
+          "text": "In what ways has your walk with Christ changed you?"
+        },
+        {
+          "id": "mf-7",
+          "text": "Has your image of God changed over the years — who did you think He was, and who do you know Him to be now?"
+        },
+        {
+          "id": "mf-8",
+          "text": "Is there something God has been trying to teach you that you keep resisting?"
+        },
+        {
+          "id": "mf-9",
+          "text": "What's a moment where you felt God showed up in a way you couldn't explain?"
+        },
+        {
+          "id": "mf-10",
+          "text": "If you had encountered Christianity as an adult with no prior exposure, do you think you would still choose to follow Jesus? Why or why not?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Love, Community & World",
+      "color": "#16a34a",
+      "questions": [
+        {
+          "id": "lc-1",
+          "text": "What are you most grateful for about the person beside you?"
+        },
+        {
+          "id": "lc-2",
+          "text": "What fruits of the Spirit have you received from other people?"
+        },
+        {
+          "id": "lc-3",
+          "text": "Who is walking ahead of you in faith, alongside you, and who are you helping walk with Christ?"
+        },
+        {
+          "id": "lc-4",
+          "text": "Who in your life shows you what unconditional love looks like, and how have they shaped your faith?"
+        },
+        {
+          "id": "lc-5",
+          "text": "Is there someone you've been called to forgive but haven't yet — what's holding you back?"
+        },
+        {
+          "id": "lc-6",
+          "text": "How do you carry your faith into spaces where it might not be welcomed?"
+        },
+        {
+          "id": "lc-7",
+          "text": "Is there a person in your life who you think God placed there intentionally — and have you ever told them?"
+        },
+        {
+          "id": "lc-8",
+          "text": "How do you respond when someone you love holds beliefs or makes choices that conflict with your faith?"
+        },
+        {
+          "id": "lc-9",
+          "text": "Is there a way your community has failed you — and have you been able to find healing from that?"
+        },
+        {
+          "id": "lc-10",
+          "text": "What's one way you've seen God work through another person to reach you?"
+        },
+        {
+          "id": "lc-11",
+          "text": "Do you find it easier to receive love or to give it — and why do you think that is?"
+        },
+        {
+          "id": "lc-12",
+          "text": "Ask the person beside you: how do you see my faith in the way I treat others?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Wildcards",
+      "color": "#7c3aed",
+      "questions": [
+        {
+          "id": "wc-1",
+          "text": "What are the 3 things you are most grateful for this week?"
+        },
+        {
+          "id": "wc-2",
+          "text": "If Jesus were in your contact list, what would you name Him?"
+        },
+        {
+          "id": "wc-3",
+          "text": "If you could send one text to Jesus, what would it be?"
+        },
+        {
+          "id": "wc-4",
+          "text": "Who's your favorite character in the Bible other than Jesus?"
+        },
+        {
+          "id": "wc-5",
+          "text": "What's your #1 go-to worship song?"
+        },
+        {
+          "id": "wc-6",
+          "text": "Share your favorite verse — why is it meaningful to you?"
+        },
+        {
+          "id": "wc-7",
+          "text": "Rate your prayer life this week: text message, voice note, or full phone call — and why?"
+        },
+        {
+          "id": "wc-8",
+          "text": "If you could have dinner with any figure from the Bible (besides Jesus), who would it be and why?"
+        },
+        {
+          "id": "wc-9",
+          "text": "If your faith were a weather report right now, what would it be?"
+        }
+      ]
+    }
+  ]
+}
